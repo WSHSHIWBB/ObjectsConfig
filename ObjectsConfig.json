@@ -1,5 +1,3 @@
-{"ID":001000,"Name":"ShiGuanSai_L","ChineseName":"试管塞（大）","Description":"布拉布拉","HandGestureName":"ShiGuanSai"}
-{"ID":001001,"Name":"ShiGuan_L","ChineseName":"试管（大）","Description":"布拉布拉","HandGestureName":"ShiGuanSai"}
-{"ID":002001,"Name":"ShiGuan_NaCl","ChineseName":"氯化钠试管","Description":"氯化钠试管","HandGestureName":"ShiGuan"}
-{"ID":001002,"Name":"ShiGuan_S","ChineseName":"试管（小）","Description":"布拉布拉","HandGestureName":"ShiGuanSai"}
+{"ID":001000,"EnglishName":"ShuiPingShiGuanJia","ChineseName":"水平试管架","Description":"用于将加热氧化铁的试管水平放置","HandGestureName":"ShuiPingShiGuanJia"}
+
 
