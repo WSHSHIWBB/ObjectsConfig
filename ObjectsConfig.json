@@ -1,3 +1,7 @@
 {"ID":001000,"Name":"ShiGuanSai_L","ChineseName":"试管塞（大）","Description":"布拉布拉","HandGestureName":"ShiGuanSai"}
 {"ID":001001,"Name":"ShiGuan_L","ChineseName":"试管（大）","Description":"布拉布拉","HandGestureName":"ShiGuanSai"}
+<<<<<<< HEAD
+{"ID":001001,"Name":"ShiGuan_NaCl","ChineseName":"氯化钠试管","Description":"氯化钠试管","HandGestureName":"ShiGuan"}
+=======
 {"ID":001002,"Name":"ShiGuan_S","ChineseName":"试管（小）","Description":"布拉布拉","HandGestureName":"ShiGuanSai"}
+>>>>>>> c9f05aedbf3e0aabd6f96585e3b8a57215b52e9c
