@@ -23,6 +23,7 @@
 {"ID":10022,"EnglishName":"CiTie","ChineseName":"磁铁","Description":"用于检测金属的磁性，可以确定铁氧化的程度","HandGestureName":"CiTie"}
 {"ID":10023,"EnglishName":"HuoChaiHe","ChineseName":"火柴盒","Description":"内部放有火柴（只能用左手拾取）","HandGestureName":"HuoChaiHe"}
 {"ID":10024,"EnglishName":"HuoChai","ChineseName":"火柴","Description":"可以点燃可燃物（请小心使用，以免引起火灾）","HandGestureName":"HuoChai"}
+{"ID":10025,"EnglishName":"YangHuaTie","ChineseName":"氧化铁","Description":"氧化铁，用于进行化学实验","HandGestureName":"YangHuaTie"}
 {"ID":20000,"EnglishName":"XiaoQiPing_LvQi","ChineseName":"氯气气瓶（小）","Description":"装有氯气的气瓶","HandGestureName":"QiPingXiao"}
 {"ID":20001,"EnglishName":"BoLiPian","ChineseName":"瓶子玻璃片","Description":"瓶子玻璃片","HandGestureName":"BoLiPian"}
 {"ID":20002,"EnglishName":"TieJiaZhi_Da","ChineseName":"大铁架","Description":"大铁架","HandGestureName":"TieJiaZhi"}
